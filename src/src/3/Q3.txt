@@ -1,0 +1,17 @@
+3. How would you explain to your grandmother what Availity does?
+
+
+Grandma, I'm interviewing for a new job at a company called Availity. You can think of them 
+as the middle man between HealthCare Providers, Hospitals, and Insurance Companies. 
+They create computer programs so all the communication between those three parties can happen
+online instead of on paper. It speeds up and smooths out the process.
+
+For example, when you go to your primary care doctor, and they refer you to a physical 
+therapist, there's several steps that need to happen in the background before, during, and 
+after your appointments with that specialist. These steps include finding a PT that your 
+insurance covers, getting approval from all parties about your need for the PT, submitting 
+a claim for services provided, and keeping your info updated so these processes continue to 
+work efficiently.
+
+All of these background processes ensure the payments between your insurance company and 
+your healthcare providers go smoothly so you don't have to worry about it.

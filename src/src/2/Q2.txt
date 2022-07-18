@@ -1,0 +1,15 @@
+2. Tell me about something you have read recently that you would recommend and why. 
+(Can be a Github Repo, Article, Blog, Book, etc)
+
+
+I have been reading Code by Charles Petzold recently and have found it to be useful in 
+helping me shift my perspective. I usually read this book in pieces during times when I’ve 
+been working on a coding project for a long time and need to take a breather. In these moments,
+I am grateful that picking up this book allows me to stay within the realm of code and logical
+thinking but in a slightly different capacity than my projects do. Code explores the theories,
+logic, and history of code, which helps reignite my enthusiasm when I’m feeling drained or 
+frustrated with my current project. This book provides me with the big picture perspective of
+coding, which aligns well with my tendency to want to zoom out and ask “why.” I recommend 
+Code to anyone with an interest in the foundational logic behind code or the evolution of 
+technology. 
+
